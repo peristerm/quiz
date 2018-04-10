@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Q1">1) A logistics network can best be described as:</string>
+    <string name="Q1_Option1">The choice of rail, marine, or truck transport</string>
+    <string name="Q1_Option2">The routes to deliver goods</string>
+    <string name="Q1_Option3">The warehouses, production facilities, \n retailers, and inventory that flows between them</string>
+
+    <string name="Q2">2) What does FTL stand for?</string>
+    <string name="Q2_Option1">Full Truck Load</string>
+    <string name="Q2_Option2">Fair transportation laws</string>
+    <string name="Q2_Option3">Fixed transport lane</string>
+
+    <string name="Q3">3) Why are LCL lead times longer than FCL lead times?</string>
+    <string name="Q3_Option1">Shipments may move on different vessels</string>
+    <string name="Q3_Option2">Shipments may take different routes</string>
+    <string name="Q3_Option3">Consolidation and deconsolidation procedures at origin and
+        destination ports take longer </string>
+
+    <string name="Q4">4)This term means that the seller delivers the goods, \n cleared for export, to the carrier nominated by the buyer at the named place. Seller pays for carriage to the named place. Which incoterm is this? (Only Abbreviation)</string>
+
+    <string name="Q5">5) The use of two or more different modes of transport in moving goods \n from origin to destination is known as:</string>
+    <string name="Q5_Option1">Container Shipping</string>
+    <string name="Q5_Option2">LTL</string>
+    <string name="Q5_Option3">Intermodal Shipping</string>
+
+    <string name="Q6"> 6) What does LTL stand for?</string>
+
+    <string name="edit_text">…</string>
+
+    <string name="button">Check</string>
+</resources>
